@@ -6,7 +6,7 @@
 </head>
 <body>
     <!-- Image en haut de la page -->
-    <img src="images/photo_club.jpg" alt="Photo motivante du club" width="100%" height="auto">
+    <img src="images/photo pnj" alt="Photo motivante du club" width="100%" height="auto">
     <p>Rejoignez-nous pour apprendre et partager !</p>
 </body>
 </html>
