@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Accueil - Club Informatique</title>
+</head>
+<body>
+    <!-- Image en haut de la page -->
+    <img src="images/photo_club.jpg" alt="Photo motivante du club" width="100%" height="auto">
+
+    <h1>Bienvenue au Club Informatique</h1>
+    <p>Rejoignez-nous pour apprendre et partager !</p>
+</body>
+</html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
