@@ -1,6 +1,37 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <title>Accueil - Club Informatique</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            /* Image en fond */
+            background-image: url('images/photo.jpg');
+            background-size: cover;      /* L’image couvre tout l’écran */
+            background-position: center; /* Centrée */
+            background-repeat: no-repeat;
+            height: 100vh;               /* Hauteur de l’écran */
+            color: white;                /* Texte en blanc pour contraster */
+        }
+
+        .content {
+            text-align: center;
+            padding-top: 40vh; /* Centrer verticalement le texte */
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Bienvenue au Club Informatique</h1>
+        <p>Rejoignez-nous pour apprendre et partager !</p>
+    </div>
+</body>
+</html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
     <title>Club Informatique - Université Alassane Ouattara</title>
     <style>
         body {
