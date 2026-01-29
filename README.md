@@ -93,7 +93,7 @@
 <section id="contact">
     <h2>Contact</h2>
     <p>Téléphone : 0140880607</p>
-    <p>Email : clubinfo@uao.ci</p>
+    <p>Email : hamzakarambiri@gmail.com</p>
 </section>
 
 <footer>
